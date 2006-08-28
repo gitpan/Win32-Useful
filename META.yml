@@ -1,6 +1,6 @@
 ---
 name: Win32-Useful
-version: 0.01
+version: 0.02
 author:
   - 'Sascha Kiefer, L<esskar@cpan.org>'
 abstract: Collection of useful functions that extend Win32 functionality
@@ -12,7 +12,7 @@ requires:
 provides:
   Win32::Useful:
     file: lib/Win32/Useful.pm
-    version: 0.01
+    version: 0.02
 generated_by: Module::Build version 0.2801
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
